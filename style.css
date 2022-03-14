@@ -1,0 +1,70 @@
+/* main1 */ 
+.main1{ 
+    margin-top: 200px; 
+    background-color: rgb(221, 0, 0); 
+    height: 200px; 
+    display: flex;
+}  
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.up-layers{ 
+    background-color: rgb(221, 221, 221); 
+    width: 300px; 
+    margin: 150px auto; 
+    height: 200px; 
+} 
+ 
+.up-layers h3{ 
+    padding-top: 40px; 
+} 
+/* tutup layers1 */ 
+
+/* main2 */ 
+.main2{ 
+    margin-top: 250px; 
+    background-color: rgb(221, 0, 0); 
+    width: 25%; 
+    height: 200px; 
+    display: flex;
+}  
+
+
+.up-layers{ 
+    background-color: rgb(221, 221, 221); 
+    width: 300px; 
+    margin: 150px auto; 
+    height: 200px; 
+} 
+ 
+.up-layers h3{ 
+    padding-top: 40px; 
+} 
+/* tutup layers2 */ 
+ 
+/* main3 */ 
+.main3{ 
+    margin-top: 250px; 
+    background-color: rgb(221, 0, 0); 
+    width: 25%; 
+    height: 200px; 
+    display: flex;
+}  
+
+
+.up-layers{ 
+    background-color: rgb(221, 221, 221); 
+    width: 300px; 
+    margin: 150px auto; 
+    height: 200px; 
+} 
+ 
+.up-layers h3{ 
+    padding-top: 40px; 
+} 
+/* tutup layers3 */ 
+ 
